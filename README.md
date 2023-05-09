@@ -53,3 +53,15 @@ You can take a picture from the images folder and see in png info all the settin
 
 # Abarthosis 
 ![Screenshot](/images/00117-2519605347.png)
+
+# Abarthrosis 
+![Screenshot](/images/00120-1171713181.png)
+
+# Abarticular
+![Screenshot](/images/00121-1392425000.png)
+
+# Abarticulation 
+![Screenshot](/images/00122-2614899940.png)
+
+# Abate 
+![Screenshot](/images/00145-3668683791.png)
