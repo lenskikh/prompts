@@ -8,6 +8,8 @@ https://t.me/AI_SD
 [Alien](#alien)<br />
 [Ball (Glass ball)](#glass-ball)<br />
 [Beach](#beach)<br />
+[Cleavage](#cleavage)<br />
+[Denim](#denim)<br />
 [Tree (Bonsai tree)](#bonsai-tree)<br />
 [Ship (Medieval ship)](#medieval-ship)<br />
 [Ship (Submarine)](#submarine)<br />
@@ -33,6 +35,13 @@ beach, craggy rocks, photo, (photorealistic:1.3)<br />
 **Negative** <br />
 sketch, bad quality, painting, drawing<br />
 ![Screenshot](/images/00064-642115850.png)<br />
+
+# cleavage
+**Prompt:** <br />
+photo of a woman as in denim, (wearing jewelry:1.1), modelshoot style, (closeup), (cleavage), (natural light)<br />
+**Negative** <br />
+cartoon, sketch, easynegative, bad-hands-5, bad-picture-chill-75v, bad-artist, bad_prompt_version2, rmadanegative4_sd15-neg, bad-image-v2-39000<br />
+![Screenshot](/images/00043-2178528683.png)<br />
 
 # Denim
 **Model** Deliberate <br />
