@@ -5,9 +5,10 @@ Recommendation: Use the hires fix to improve generation quality<br />
 Our Telegram channel <br />
 https://t.me/AI_SD
 
+[Alien](#alien)<br />
 [Ball (Glass ball)](#glass-ball)<br />
-[Tree (Bonsai tree)](#bonsai-tree)<br />
 [Beach](#beach)<br />
+[Tree (Bonsai tree)](#bonsai-tree)<br />
 [Ship (Medieval ship)](#medieval-ship)<br />
 [Ship (Submarine)](#submarine)<br />
 
