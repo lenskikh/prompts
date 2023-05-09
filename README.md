@@ -23,7 +23,14 @@ blurry, boring, sketch, lackluster, signature, letters, watermark, low res , hor
 
 # Beach
 **Prompt:** <br />
-beach, craggy rocks, photo, (photorealistic:1.3)
+beach, craggy rocks, photo, (photorealistic:1.3)<br />
 **Negative** <br />
-sketch, bad quality, painting, drawing
+sketch, bad quality, painting, drawing<br />
 ![Screenshot](/images/00064-642115850.png)<br />
+
+# Medieval ship
+**Prompt:** <br />
+A medieval ship crashed on the rocks, beach, craggy rocks, photo, (photorealistic:1.3)
+**Negative** <br />
+sketch, bad quality, painting, drawing<br />
+![Screenshot](/images/00082-1693326712.png)<br />
