@@ -107,3 +107,24 @@ You can take a picture from the images folder and see in png info all the settin
 
 # Abbacinare
 ![Screenshot](/images/00223-2199757788.png)
+
+# Abbacy
+![Screenshot](/images/00263-850640959.png)
+
+# Abbe
+![Screenshot](/images/00266-1585970228.png)
+
+# Abbess
+![Screenshot](/images/00268-2737749644.png)
+
+# Abbevillian
+![Screenshot](/images/00269-3505854214.png)
+
+# Abbot
+![Screenshot](/images/00303-2585541558.png)
+
+# Abbr
+![Screenshot](/images/00310-2085777104.png)
+
+# Abbrev
+![Screenshot](/images/00317-550824228.png)
