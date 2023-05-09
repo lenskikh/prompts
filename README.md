@@ -9,6 +9,7 @@ https://t.me/AI_SD
 [Tree (Bonsai tree)](#bonsai-tree)<br />
 [Beach](#beach)<br />
 [Ship (Medieval ship)](#medieval-ship)<br />
+[Ship (Submarine)](#submarine)<br />
 
 # Glass ball 
 **Prompt:** <br />
@@ -34,7 +35,7 @@ sketch, bad quality, painting, drawing<br />
 A medieval ship crashed on the rocks, beach, craggy rocks, photo, (photorealistic:1.3)<br />
 **Negative** <br />
 sketch, bad quality, painting, drawing<br />
-![Screenshot](/images/00082-1693326712.png)<br />
+![Screenshot](/images/00086-1288942104.png)<br />
 
 # Submarine 
 **Prompt:** <br />
