@@ -80,3 +80,18 @@ You can take a picture from the images folder and see in png info all the settin
 
 # Abatic
 ![Screenshot](/images/00174-2675489278.png)
+
+# Abatis 
+![Screenshot](/images/00177-2982724473.png)
+
+# Abator
+![Screenshot](/images/00179-1608708280.png)
+
+# Abattoir 
+![Screenshot](/images/00180-29162036.png)
+
+# Abatvoix 
+![Screenshot](/images/00182-1438355004.png)
+
+# abaxial 
+![Screenshot](/images/00190-714589638.png)
