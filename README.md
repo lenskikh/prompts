@@ -11,6 +11,7 @@ https://t.me/AI_SD
 [Cleavage](#cleavage)<br />
 [Denim](#denim)<br />
 [Tree (Bonsai tree)](#bonsai-tree)<br />
+[Shaolin monk](#shaolin-monk)<br />
 [Ship (Medieval ship)](#medieval-ship)<br />
 [Ship (Submarine)](#submarine)<br />
 
