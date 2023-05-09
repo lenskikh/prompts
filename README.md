@@ -34,6 +34,14 @@ beach, craggy rocks, photo, (photorealistic:1.3)<br />
 sketch, bad quality, painting, drawing<br />
 ![Screenshot](/images/00064-642115850.png)<br />
 
+# Denim
+**Model** Deliberate <br />
+**Prompt:** <br />
+photo of a woman as a housewife, (sexy denim overalls with cleavage:1.1), (woods cabin in the background), (wearing jewelry:1.1), modelshoot style, (closeup), (extremely sexy), (cleavage), (natural light)<br />
+**Negative** <br />
+cartoon, sketch, easynegative, bad-hands-5, bad-picture-chill-75v, bad-artist, bad_prompt_version2, rmadanegative4_sd15-neg, bad-image-v2-39000<br />
+![Screenshot](/images/00038-398281832.png)<br />
+
 # Medieval ship
 **Prompt:** <br />
 A medieval ship crashed on the rocks, beach, craggy rocks, photo, (photorealistic:1.3)<br />
