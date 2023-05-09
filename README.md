@@ -152,3 +152,18 @@ You can take a picture from the images folder and see in png info all the settin
 
 # Abduct
 ![Screenshot](/images/00426-1917942389.png)
+
+# Abduction
+![Screenshot](/images/00444-3481618372.png)
+
+# Abductor
+![Screenshot](/images/00453-3094569031.png)
+
+# Abeam
+![Screenshot](/images/00472-2407419753.png)
+
+# Abecedary
+![Screenshot](/images/00501-287420052.png)
+
+# Abed
+![Screenshot](/images/00547-390120233.png)
