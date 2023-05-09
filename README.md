@@ -143,3 +143,12 @@ You can take a picture from the images folder and see in png info all the settin
 
 # Abdominal
 ![Screenshot](/images/00375-674445591.png)
+
+# Abduce
+![Screenshot](/images/00382-996684069.png)
+
+# Abducens
+![Screenshot](/images/00425-72742312.png)
+
+# Abduct
+![Screenshot](/images/00426-1917942389.png)
