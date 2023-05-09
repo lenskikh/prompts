@@ -128,3 +128,18 @@ You can take a picture from the images folder and see in png info all the settin
 
 # Abbrev
 ![Screenshot](/images/00317-550824228.png)
+
+# Abbyy
+![Screenshot](/images/00350-2027444779.png)
+
+# Abca
+![Screenshot](/images/00361-3195338748.png)
+
+# Abdicate
+![Screenshot](/images/00368-2596006651.png)
+
+# Abdomen
+![Screenshot](/images/00374-429665449.png)
+
+# Abdominal
+![Screenshot](/images/00375-674445591.png)
