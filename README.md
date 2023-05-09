@@ -167,3 +167,12 @@ You can take a picture from the images folder and see in png info all the settin
 
 # Abed
 ![Screenshot](/images/00547-390120233.png)
+
+# Abeda
+![Screenshot](/images/00548-3866186398.png)
+
+# Abegg
+![Screenshot](/images/00577-3691969069.png)
+
+# Abelian
+![Screenshot](/images/00589-2884149278.png)
