@@ -63,5 +63,20 @@ You can take a picture from the images folder and see in png info all the settin
 # Abarticulation 
 ![Screenshot](/images/00122-2614899940.png)
 
+# Abasia
+![Screenshot](/images/00150-959396616.png)
+
+# Abask
+![Screenshot](/images/00149-1783116395.png)
+
 # Abate 
 ![Screenshot](/images/00145-3668683791.png)
+
+# Abatable 
+![Screenshot](/images/00162-2518094599.png)
+
+# Abater 
+![Screenshot](/images/00171-3617990452.png)
+
+# Abatic
+![Screenshot](/images/00174-2675489278.png)
