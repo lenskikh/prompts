@@ -64,6 +64,14 @@ sketch, bad quality, painting, drawing<br />
 (photo realistic:1.3), RAW, mini tree (Bonsai tree:1.2) in home interior, dead pine tree, strange shape, tall and strong trunk, (Thick leaves:1), dirt ground, grass, wet ground, 28 mm<br />
 ![Screenshot](/images/00062-1523545754.png)<br />
 
+# Shaolin monk
+**Model** Deliberate <br />
+**Prompt:** <br />
+Shaolin monk hyper - detailed, make a super power fist and destroys the world<br />
+**Negative** <br />
+cartoon, sketch, easynegative, bad-hands-5, bad-picture-chill-75v, bad-artist, bad_prompt_version2, rmadanegative4_sd15-neg, bad-image-v2-39000<br />
+![Screenshot](/images/00046-4245823747.png)<br />
+
 # Submarine 
 **Prompt:** <br />
 A rusty submarine crashed on the rocks, beach, craggy rocks, photo, (photorealistic:1.3)<br />
