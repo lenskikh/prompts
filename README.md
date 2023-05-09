@@ -7,6 +7,7 @@ https://t.me/AI_SD
 
 [Ball (Glass ball)](#glass-ball)<br />
 [Tree (Bonsai tree)](#bonsai-tree)<br />
+[Beach](#beach)<br />
 
 # Glass ball 
 **Prompt:** <br />
@@ -19,3 +20,10 @@ blurry, boring, sketch, lackluster, signature, letters, watermark, low res , hor
 **Prompt:** <br />
 (photo realistic:1.3), RAW, mini tree (Bonsai tree:1.2) in home interior, dead pine tree, strange shape, tall and strong trunk, (Thick leaves:1), dirt ground, grass, wet ground, 28 mm<br />
 ![Screenshot](/images/00062-1523545754.png)<br />
+
+# Beach
+**Prompt:** <br />
+beach, craggy rocks, photo, (photorealistic:1.3)
+**Negative** <br />
+sketch, bad quality, painting, drawing
+![Screenshot](/images/00064-642115850.png)<br />
