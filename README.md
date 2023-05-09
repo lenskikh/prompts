@@ -93,5 +93,17 @@ You can take a picture from the images folder and see in png info all the settin
 # Abatvoix 
 ![Screenshot](/images/00182-1438355004.png)
 
-# abaxial 
+# Abaxial 
 ![Screenshot](/images/00190-714589638.png)
+
+# Abazin
+![Screenshot](/images/00213-3007093593.png)
+
+# Abb
+![Screenshot](/images/00215-1808131604.png)
+
+# ABBA
+![Screenshot](/images/00218-4129679544.png)
+
+# Abbacinare
+![Screenshot](/images/00223-2199757788.png)
