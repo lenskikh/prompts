@@ -34,7 +34,7 @@ You can take a picture from the images folder and see in png info all the settin
 ![Screenshot](/images/00098-1735383097.png)
 
 # Abampere 
-![Screenshot](/images/00104-2087892545.png)
+![Screenshot](/images/00019-2614562001.png)
 
 # Abandon 
 ![Screenshot](/images/00105-2574024683.png)
@@ -176,3 +176,11 @@ You can take a picture from the images folder and see in png info all the settin
 
 # Abelian
 ![Screenshot](/images/00589-2884149278.png)
+
+# Abelmosk
+![Screenshot](/images/00076-916176353.png)
+
+# Abelite
+![Screenshot](/images/00077-2433884421.png)
+
+#
